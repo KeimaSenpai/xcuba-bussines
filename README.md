@@ -1,6 +1,6 @@
 # XCuba-Business 🚀
 
-XCuba-Business es una librería async de utilidades diseñado específicamente para desarrolladores cubanos que trabajan en MiPyMEs y negocios privados. Esta herramienta busca facilitar y optimizar la gestión empresarial mediante un conjunto completo de módulos integrados.
+XCuba-Business es una librería async de utilidades diseñado específicamente para desarrolladores cubanos que trabajan en MYPIMES y negocios privados. Esta herramienta busca facilitar y optimizar la gestión empresarial mediante un conjunto completo de módulos integrados.
 
 ## 🌟 Características Principales
 
