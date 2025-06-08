@@ -1,4 +1,4 @@
-![HD](https://github.com/user-attachments/assets/48c11ee7-8e58-4bba-bc2b-878ffe0ed373)
+![HD](https://github.com/user-attachments/assets/bf2c1f32-dede-4a3b-81c5-87f744cb7d9a)
 # XCuba-Business 🚀
 
 XCuba-Business es una librería async de utilidades diseñado específicamente para desarrolladores cubanos que trabajan en MYPIMES y negocios privados. Esta herramienta busca facilitar y optimizar la gestión empresarial mediante un conjunto completo de módulos integrados.
