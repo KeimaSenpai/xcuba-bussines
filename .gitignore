@@ -2,4 +2,4 @@ dist/
 __pycache__/
 *.pyc
 *.pyo
-xcuba.egg-info/
+*.egg-info/
