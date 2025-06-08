@@ -1,10 +1,6 @@
 # XCuba-Business 🚀
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
-[![Telegram](https://img.shields.io/badge/Telegram-Comunidad-blue)](https://t.me/KeimaSenpai)
-
-XCuba-Business es un paquete de utilidades diseñado específicamente para desarrolladores cubanos que trabajan en MiPyMEs y negocios privados. Esta herramienta busca facilitar y optimizar la gestión empresarial mediante un conjunto completo de módulos integrados.
+XCuba-Business es una librería async de utilidades diseñado específicamente para desarrolladores cubanos que trabajan en MiPyMEs y negocios privados. Esta herramienta busca facilitar y optimizar la gestión empresarial mediante un conjunto completo de módulos integrados.
 
 ## 🌟 Características Principales
 

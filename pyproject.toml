@@ -8,7 +8,9 @@ authors = [
 readme = "README.md"
 license = { file="LICENSE" }
 dependencies = [
-  "python-dateutil",
+  "pymongo",
+  "motor",
+  
 ]
 
 [build-system]
